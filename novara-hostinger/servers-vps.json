@@ -1,0 +1,17 @@
+[
+  {
+    "color": "f5b301",
+    "firstname": "Minas",
+    "secondname": "City",
+    "ip": "187.41.106.219",
+    "port": "7778",
+    "name": "Minas City Beta",
+    "key": "minas-city",
+    "online": "0",
+    "maxonline": "1000",
+    "url": "",
+    "x2": false,
+    "x2cordx": 0.0,
+    "x2cordy": 0.0
+  }
+]
